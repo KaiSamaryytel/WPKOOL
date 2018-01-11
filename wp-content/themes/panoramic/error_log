@@ -1,0 +1,2 @@
+[11-Jan-2018 09:11:05 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/kaikoppeliktkhk/public_html/wordpress/wp-content/themes/panoramic/index.php on line 14
+[11-Jan-2018 09:11:07 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/kaikoppeliktkhk/public_html/wordpress/wp-content/themes/panoramic/index.php on line 14
