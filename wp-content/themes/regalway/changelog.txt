@@ -1,0 +1,53 @@
+== Changelog ==
+
+= Theme Name: Regalway =
+
+= Version: 1.0.8 =
+1. Theme URI and footer links updated.
+
+= Version: 1.0.7 =
+1. change styling of post 
+2. Solve 404 page issues
+3. Remove deprecated tags from Style Sheet
+4. Added Theme support function
+
+= Version: 1.0.6 =
+***************************************
+1. Support Link Button Added In WordPress Customize
+
+= Version: 1.0.5 = 
+* Theme option to WordPress customizer API migration.
+
+= Version: 1.0.4 =
+1. Theme check issue fixed.
+2. All text domain matched with theme directory.
+3. Language .pot file matched with text domain.
+4. Use add_theme_support( 'title-tag' ) with after_theme_setup hook and removed title tag from header.php.
+5. Escaped Some Hard coded link. 
+
+= Version: 1.0.3 =
+1. Color validation issue fixed.
+
+= Version: 1.0.2 =
+1. Theme options data validation issue fixed.
+
+= Version: 1.0.1 =
+1. metabox.php and dynamic-image.php file removed.
+2. function exist wrapper and repeated functions removed.
+3. Default favicon link removed.
+4. Analytic code option removed.
+5. Escaped all urls.
+6. Used get_stylesheet_url() instead of bloginfo('stylesheet_url'); 
+7. Hooked wp_enqueue_script('comment-reply'); via call back function.
+8. wp_head(); placed immediately above the closing </head> html tag 
+9. Front-page.php removed.
+10.columns.php and buttons.php removed that are not used further. 
+11.Missing translation strings issue fixed.
+12.Posts navigation added in home page.
+13.Paginated page issue fixed.
+14.Enabled comments in page template.
+15.No reference to the_post_thumbnail() was found in the theme issue fixed.
+16.Html Table style added.
+
+= Version: 1.0 =
+* Regal Theme is created on 30/01/2014.
