@@ -1,0 +1,26 @@
+== Change log ==
+
+= 1.0.5 =
+* Fixed   : AT Gallery Section Column Number
+
+= 1.0.4 =
+* Updated : Language Files
+* Fixed   : Text domain
+
+= 1.0.3 =
+* Updated : Breadcrumb Trail and TGM
+* Fixed   : Minor issues
+
+= 1.0.2 =
+* Fixed : Edit Link
+
+= 1.0.1 =
+* Fixed : Escaping issues
+
+= 1.0.0 =
+* Added : Background Options on Widget
+* Updated : Screenshot
+* Updated : Other Minor changes
+
+= 0.0.1 - August 08 2017 =
+* Submitted to WordPress.org
